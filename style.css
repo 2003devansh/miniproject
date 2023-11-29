@@ -214,7 +214,7 @@ ul.navitem1 li {
     width: 100%;
     height: 100%;
     left: 0;
-    transition: 1s;
+    transition: 0.5ms;
     overflow: hidden;
 }
 
